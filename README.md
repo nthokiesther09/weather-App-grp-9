@@ -62,15 +62,6 @@ This project is a basic weather application built using HTML, CSS, and JavaScrip
 1. Enter the name of the city in the provided input field.
 2. Click the "Get Weather" button to fetch and display weather information.
 
-## Evaluation Criteria
-
-The project is evaluated based on the following criteria:
-
-1. **Correct Implementation**: Proper implementation of HTML, CSS, and JavaScript.
-2. **Input Fields and Buttons**: Proper usage of input fields and buttons for a seamless user experience.
-3. **API Integration**: Integration with a weather API to fetch and display accurate data.
-4. **Error Handling**: Effective handling of errors with clear and informative error messages.
-5. **Styling**: Basic styling applied to make the app visually appealing.
 
 ## Installation
 
