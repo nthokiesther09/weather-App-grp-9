@@ -25,6 +25,7 @@ body {
   align-items: center;
   justify-content: center;
   gap: 10px;
+  margin-top: 14px;
 }
 h1 {
   color: red;
@@ -49,5 +50,7 @@ button:hover {
 }
 
 #weatherData {
+  margin-top: 31px;
   text-align: center;
+  line-height: 35px;
 }
