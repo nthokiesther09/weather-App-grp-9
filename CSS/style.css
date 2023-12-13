@@ -5,6 +5,9 @@
     width: 600px;
     height: 400px;
     background-color: white;
+    box-shadow: 10px 10px 61px 11px rgba(7,1,1,0.63);
+-webkit-box-shadow: 10px 10px 61px 11px rgba(7,1,1,0.63);
+-moz-box-shadow: 10px 10px 61px 11px rgba(7,1,1,0.63);
 
     
 }
@@ -14,7 +17,7 @@ display: flex;
 align-items: center;
 justify-content: center;
 min-height: 100vh;
-background-image: url(../assets/sunny.jpg);
+background-image: url(../assets/blueSky.jpg);
 background-repeat: no-repeat;
 background-position: center center;
 background-size: cover;
