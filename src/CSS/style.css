@@ -1,0 +1,53 @@
+.container {
+  border-width: 0;
+  border-radius: 10px;
+  margin: 0 auto;
+  width: 600px;
+  height: 400px;
+  background-color: white;
+  box-shadow: 10px 10px 61px 11px rgba(7, 1, 1, 0.63);
+  -webkit-box-shadow: 10px 10px 61px 11px rgba(7, 1, 1, 0.63);
+  -moz-box-shadow: 10px 10px 61px 11px rgba(7, 1, 1, 0.63);
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-image: url(../assets/blueSky.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+.weather {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+h1 {
+  color: red;
+  text-align: center;
+  padding: 40px 0;
+}
+input {
+  border-radius: 5px;
+  padding: 10px;
+  color: black;
+}
+button {
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: red;
+  color: white;
+}
+button:hover {
+  background-color: brown;
+  cursor: pointer;
+}
+
+#weatherData {
+  text-align: center;
+}
