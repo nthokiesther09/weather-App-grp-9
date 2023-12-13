@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a basic weather application built using HTML, CSS, and JavaScript. It allows users to input the name of a city, fetches the current temperature and weather condition from the[openweathermap API](https://openweathermap.org/api},and displays the information on the screen. The app also includes error handling to manage cases where the entered city is not found or the API request fails, with informative error messages. Basic styling has been applied to make the app visually appealing.
+This project is a basic weather application built using HTML, CSS, and JavaScript. It allows users to input the name of a city, fetches the current temperature and weather condition from the OpenWeatherMap API(https://openweathermap.org/api), and displays the information on the screen. The app also includes error handling to manage cases where the entered city is not found or the API request fails.
 
 ## Features
 
@@ -13,7 +13,7 @@ This project is a basic weather application built using HTML, CSS, and JavaScrip
 
 ### Weather Display
 
-- The app fetches and displays the current temperature and weather condition for the entered city.
+- The app fetches and displays the current temperature and weather conditions for the entered city.
 
 ### Error Handling
 
@@ -42,20 +42,10 @@ This project is a basic weather application built using HTML, CSS, and JavaScrip
 - An input field allows users to enter the name of a city.
 - The input field has an associated "Get Weather" button.
 
-### Weather Display
-
-- The app fetches and displays the current temperature and weather condition for the entered city.
-- Users can quickly access relevant weather information.
-
 ### Error Handling
 
 - Handles cases where the entered city is not found or the API request fails.
 - Displays clear and simple error messages to inform users.
-
-### Simple Styling
-
-- Basic styling has been applied to enhance the visual appeal of the app.
-- The user interface is designed to be straightforward and user-friendly.
 
 ## Usage
 
@@ -67,7 +57,7 @@ This project is a basic weather application built using HTML, CSS, and JavaScrip
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/simple-weather-app.git
+   git@github.com:mayangiaretha/weather-APP-9.git
 
 ## Author
 Mayangi Aretha
