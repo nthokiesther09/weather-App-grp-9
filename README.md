@@ -42,6 +42,13 @@ This project is a basic weather application built using HTML, CSS, and JavaScrip
    ```bash
    git clone git@github.com:mayangiaretha/weather-APP-9.git
 
+3. cd `weather-APP-9 ` to go to the project
+4. run `npm i ` to install packages
+5. run the file `src/index.html`
+
+## Run linter
+In the root of the application run the command `npm run lint`
+
 ## Authors
 Mayangi Aretha,
 Cynthia Ekhomwandolor,
