@@ -1,0 +1,23 @@
+{
+  "name": "weatherapp-group-9",
+  "version": "1.0.0",
+  "description": "This project is a basic weather application built using HTML, CSS, and JavaScript. It allows users to input the name of a city, fetches the current temperature and weather condition from the OpenWeatherMap API(https://openweathermap.org/api), and displays the information on the screen. The app also includes error handling to manage cases where the entered city is not found or the API request fails.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayangiaretha/weather-APP-9.git"
+  },
+  "keywords": [],
+  "author": "Group 9",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayangiaretha/weather-APP-9/issues"
+  },
+  "homepage": "https://github.com/mayangiaretha/weather-APP-9#readme",
+  "devDependencies": {
+    "prettier": "^3.1.1"
+  }
+}
